@@ -1,0 +1,9 @@
+{
+  "name": "com.lit.json",
+  "displayName": "Lit Json",
+  "version": "0.17.0",
+  "description": "LitJson for Unity",
+  "keywords": [
+    "json"
+  ]
+}

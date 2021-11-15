@@ -156,6 +156,9 @@ namespace LitJson
 
             RegisterBaseExporters ();
             RegisterBaseImporters ();
+#if UNITY
+            UnityExtensions.Register();
+#endif
         }
         #endregion
 
